@@ -8,8 +8,8 @@ function App() {
 
   return (
     <>
-     <h1>Hellow World</h1>
-     
+      the Vite and React logos to learn more
+      </p>
     </>
   )
 }
